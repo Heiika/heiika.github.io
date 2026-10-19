@@ -1,6 +1,6 @@
 ---
 layout: single
-# title: "OpenLDAP and Nextcloud Integration on CentOS Stream 9"
+title: "OpenLDAP and Nextcloud Integration on CentOS Stream 9"
 header:
   overlay_image: /assets/images/banner-014.jpg
   overlay_filter: 0.6
