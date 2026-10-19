@@ -2,7 +2,7 @@
 layout: single
 header:
   overlay_image: /assets/images/banner-014.jpg
-  og_image: /assets/images/openldap-nextcloud-og.jpg
+  og_image: /assets/images/banner-014.jpg
   overlay_filter: 0.6
 toc: true
 toc_depth: 6
