@@ -1,15 +1,16 @@
 ---
 layout: single
+title: "OpenLDAP and Nextcloud Integration on CentOS Stream 9"
 header:
   overlay_image: /assets/images/banner-014.jpg
-  og_image: /assets/images/banner-014.jpg
   overlay_filter: 0.6
 toc: true
 toc_depth: 6
 toc_label: Table of Contents
 last_modified_at: 2026-01-02T10:53:00+01:00
 categories:
-  - Identity-and-Access-Management
+  - Identity
+  - Access-Management
   - Authentication
   - Homelab
 tags:
